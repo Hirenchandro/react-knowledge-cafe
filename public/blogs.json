@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co.com/XZzH5db/6425879.jpg",
+    "title": "The Art of Mindfulness",
+    "author": "John Doe",
+    "author_img": "https://example.com/images/johndoe.jpg",
+    "posted_date": "January 15, 2025",
+    "reading_time": 8,
+    "hashtags": ["mindfulness", "wellness", "meditation"]
+  },
+  {
+    "id": 2,
+    "cover": "https://example.com/images/cover2.jpg",
+    "title": "Exploring AI Trends in 2025",
+    "author": "Jane Smith",
+    "author_img": "https://example.com/images/janesmith.jpg",
+    "posted_date": "January 18, 2025",
+    "reading_time": 12,
+    "hashtags": ["AI", "technology", "trends"]
+  },
+  {
+    "id": 3,
+    "cover": "https://example.com/images/cover3.jpg",
+    "title": "The Future of Remote Work",
+    "author": "Alex Johnson",
+    "author_img": "https://example.com/images/alexjohnson.jpg",
+    "posted_date": "January 20, 2025",
+    "reading_time": 10,
+    "hashtags": ["remote work", "future", "work-life balance"]
+  },
+  {
+    "id": 4,
+    "cover": "https://example.com/images/cover4.jpg",
+    "title": "A Guide to Healthy Eating",
+    "author": "Emily Davis",
+    "author_img": "https://example.com/images/emilydavis.jpg",
+    "posted_date": "January 10, 2025",
+    "reading_time": 7,
+    "hashtags": ["nutrition", "healthy eating", "wellness"]
+  },
+  {
+    "id": 5,
+    "cover": "https://example.com/images/cover5.jpg",
+    "title": "Mastering Personal Finance",
+    "author": "Michael Brown",
+    "author_img": "https://example.com/images/michaelbrown.jpg",
+    "posted_date": "January 12, 2025",
+    "reading_time": 9,
+    "hashtags": ["finance", "budgeting", "investing"]
+  }
+]
