@@ -3,8 +3,8 @@ import PropTypes from 'prop-types';
 const Blog = ({blog}) => {
    const {title,cover,author,author_img,posted_date, reading_time,hashtags}= blog
     return (
-        <div>
-            <img className='w-2/4 mb-2 rounded' src={cover} alt={`cover picture of the title ${title}`} />
+        <div className='mb-20'>
+            <img className='w-full mb-2 rounded' src={cover} alt={`cover picture of the title ${title}`} />
             <div className='flex justify-between'>
                 <div className='flex'>
                     <img className='w-10' src={author_img} alt="" />
